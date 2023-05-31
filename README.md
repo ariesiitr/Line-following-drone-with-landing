@@ -1,5 +1,5 @@
 # Line-following-drone-with-landing
-                                                ARIES : LINE FOLLOWING DRONE WITH LANDING
+                                         ARIES : LINE FOLLOWING DRONE WITH LANDING
 
 Overview
 -> This project aims to design a Line-tracking algorithm through Vision-based control             with image processing techniques.
